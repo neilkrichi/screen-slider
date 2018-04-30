@@ -105,4 +105,16 @@ body {
   body {
     font-size: 75%;
   }
+
+  .layer h1 {
+    line-height: 40px;
+  }
+
+  .layer #coke {
+    width: 100px;
+  }
+
+  .layer #zero {
+    width: 210px;
+  }
 }
